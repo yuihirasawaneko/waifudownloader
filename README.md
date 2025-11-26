@@ -1,2 +1,2 @@
 # waifudownloader
-A Simple GUI for yt-dl created with love and PyQt6
+A Simple GUI for yt-dl created with love❤️ and PyQt6 🦦 
