@@ -58,6 +58,9 @@ python -m nuitka main.py ^
 
 ---
 
+## ❤️ Создано с любовью, PyQt6 и выдрами
+*Если вы улыбнулись, значит проект работает 🦦💗*
+
 # 🇺🇸 WifeeDownloader — beautiful GUI for yt-dlp  
 *A simple GUI for yt-dlp created with love ❤️ and PyQt6 🦦*
 
